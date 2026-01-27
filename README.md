@@ -5,6 +5,7 @@
 Source of data: Electric Vehicle Population Data
 Washington State Department of Licensing (DOL); Statistical Organizations.
 Number of rows: 203 rows
+
 Number of columns: 6 columns
 The context: The Electric Vehicle Registration data for Washington State provides insight into how the Electric Vehicle adoption is spreading throughout the state. In addition to providing information on how many Electric Vehicles there are in each year and the various makes and models of Electric Vehicles, it also gives a general view of which brands are gaining dominance (such as Tesla), what years are growing the most rapidly and where (urban vs. rural) the most growth is happening. This type of information is vital for local governments that are trying to determine where to put charging infrastructure, companies that are determining what types of EV market strategies to pursue, energy providers that are trying to plan for future demand and consumers that are considering switching to an Electric Vehicle. The trends of sustainable transportation, the impact on the environment and the level of penetration of new Electric Vehicle technology into daily living are all important factors to be considered.
 ## Data Cleaning
