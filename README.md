@@ -13,15 +13,11 @@ The context: The Electric Vehicle Registration data for Washington State provide
 ## Data Cleaning
 
 Handling Missing Values: Detected 14 missing entries in location-based columns. These records were excluded from the analysis as they represent a negligible portion of the dataset and would not impact the overall trend.
-  
-  Vehicle Identification Number: Missing 4 values (A70, A74, A79, A93)
-  
-  City: Missing 2 values (B24, B31)
-  
-  Make: Missing 2 values (E16, E97)
-  
-  Model: Missing 1 value (F59)
-
+- Vehicle Identification Number: Missing 4 values (A70, A74, A79, A93)
+- City: Missing 2 values (B24, B31)
+- Make: Missing 2 values (E16, E97)
+- Model: Missing 1 value (F59)
 Handling Duplicates: Identified and removed 3 duplicate records to ensure data integrity and avoid overcounting specific vehicles.
-
 => After deletion, there are 189 rows and 6 columns left.
+
+
